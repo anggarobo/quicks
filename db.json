@@ -48,7 +48,7 @@
         },
         { 
             "inboxId": "inbox_002",
-            "chat": [
+            "messages": [
                 {
                     "name": "Cameron Philips",
                     "time": "2024-06-04 10:30:34",
@@ -83,7 +83,7 @@
         },
         {
             "inboxId": "inbox_003",
-            "chat": [
+            "messages": [
                 {
                     "name": "Cameron Philips",
                     "time": "2024-06-04 10:30:34",
@@ -118,7 +118,7 @@
         },
         {
             "inboxId": "inbox_004",
-            "chat": [
+            "messages": [
                 {
                     "name": "Cameron Philips",
                     "time": "2024-06-04 10:30:34",
