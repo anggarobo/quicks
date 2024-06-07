@@ -4,164 +4,153 @@
         "username": "cameron",
         "id": "cpcp01"
     },
-    "chats": [
-        { 
-            "inboxId": "001", 
-            "chat": [
-                {
-                    "name": "Cameron Philips",
-                    "time": "2024-06-04 10:30:34",
-                    "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements.",
-                    "chatId": "chat_001"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-05 10:30:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_002"
-                },
-                {
-                    "name": "Cameron Philips",
-                    "time": "2024-06-05 10:31:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_003"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-05 10:33:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_004"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-06 10:33:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_005"
-                }
-            ] 
-        },
-        { 
-            "inboxId": "002",
-            "chat": [
-                {
-                    "name": "Cameron Philips",
-                    "time": "2024-06-04 10:30:34",
-                    "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements.",
-                    "chatId": "chat_001"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-05 10:30:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_002"
-                },
-                {
-                    "name": "Cameron Philips",
-                    "time": "2024-06-05 10:31:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_003"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-05 10:33:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_004"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-06 10:33:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_005"
-                }
-            ]
-        },
-        {
-            "inboxId": "003",
-            "chat": [
-                {
-                    "name": "Cameron Philips",
-                    "time": "2024-06-04 10:30:34",
-                    "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements.",
-                    "chatId": "chat_001"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-05 10:30:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_002"
-                },
-                {
-                    "name": "Cameron Philips",
-                    "time": "2024-06-05 10:31:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_003"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-05 10:33:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_004"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-06 10:33:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_005"
-                }
-            ]
-        },
-        {
-            "inboxId": "004",
-            "chat": [
-                {
-                    "name": "Cameron Philips",
-                    "time": "2024-06-04 10:30:34",
-                    "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements.",
-                    "chatId": "chat_001"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-05 10:30:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_002"
-                },
-                {
-                    "name": "Cameron Philips",
-                    "time": "2024-06-05 10:31:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_003"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-05 10:33:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_004"
-                },
-                {
-                    "name": "Mary Hilda",
-                    "time": "2024-06-06 10:33:34",
-                    "message": "Switches are a pleasant interface for toggling a value",
-                    "chatId": "chat_005"
-                }
-            ]
-        }
-    ],
     "inbox": [
+        { "id": "inbox_001", "name": "Keluarga Cemara" },
+        { "id": "inbox_002", "name": "Persatuan Pendukung MU Yang Capek Dukung MU" },
+        { "id": "inbox_003", "name": "Alumni SMA 2000 Konoha" },
+        { "id": "inbox_004", "name": "Info Cegatan Solo" }
+    ],
+    "chat": [
         { 
-            "name": "109220-Naturalization",
-            "id": "001"
+            "inboxId": "inbox_001", 
+            "messages": [
+                {
+                    "name": "Cameron Philips",
+                    "time": "2024-06-04 10:30:34",
+                    "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements.",
+                    "chatId": "chat_001"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-05 10:30:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_002"
+                },
+                {
+                    "name": "Cameron Philips",
+                    "time": "2024-06-05 10:31:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_003"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-05 10:33:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_004"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-06 10:33:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_005"
+                }
+            ]  
         },
         { 
-            "name": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, deleniti.",
-            "id": "002"
+            "inboxId": "inbox_002",
+            "chat": [
+                {
+                    "name": "Cameron Philips",
+                    "time": "2024-06-04 10:30:34",
+                    "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements.",
+                    "chatId": "chat_001"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-05 10:30:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_002"
+                },
+                {
+                    "name": "Cameron Philips",
+                    "time": "2024-06-05 10:31:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_003"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-05 10:33:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_004"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-06 10:33:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_005"
+                }
+            ]
         },
-        { 
-            "name": "Lorem ipsum dolor sit",
-            "id": "003"
+        {
+            "inboxId": "inbox_003",
+            "chat": [
+                {
+                    "name": "Cameron Philips",
+                    "time": "2024-06-04 10:30:34",
+                    "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements.",
+                    "chatId": "chat_001"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-05 10:30:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_002"
+                },
+                {
+                    "name": "Cameron Philips",
+                    "time": "2024-06-05 10:31:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_003"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-05 10:33:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_004"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-06 10:33:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_005"
+                }
+            ]
         },
-        { 
-            "name": "Magni fuga quaerat amet omnis molestiae doloremque nostrum animi obcaecati corrupti!",
-            "id": "004"            
+        {
+            "inboxId": "inbox_004",
+            "chat": [
+                {
+                    "name": "Cameron Philips",
+                    "time": "2024-06-04 10:30:34",
+                    "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements.",
+                    "chatId": "chat_001"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-05 10:30:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_002"
+                },
+                {
+                    "name": "Cameron Philips",
+                    "time": "2024-06-05 10:31:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_003"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-05 10:33:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_004"
+                },
+                {
+                    "name": "Mary Hilda",
+                    "time": "2024-06-06 10:33:34",
+                    "message": "Switches are a pleasant interface for toggling a value",
+                    "chatId": "chat_005"
+                }
+            ]
         }
     ]
+    
 }
