@@ -4,6 +4,23 @@
         "username": "cameron",
         "id": "cpcp01"
     },
+    "users": [
+        {
+            "name": "Cameron Philips",
+            "username": "cameron",
+            "id": "cameron_philips"
+        },
+        {
+            "name": "Mary Hilda",
+            "username": "Hilda",
+            "id": "mary_hilda"
+        },
+        {
+            "name": "Obaidullah Amarkhil",
+            "username": "Obaidullah",
+            "id": "obaidullah"
+        }
+    ],
     "inbox": [
         { "id": "inbox_001", "name": "Keluarga Cemara" },
         { "id": "inbox_002", "name": "Persatuan Pendukung MU Yang Capek Dukung MU" },
@@ -150,6 +167,43 @@
                     "chatId": "chat_005"
                 }
             ]
+        }
+    ],
+    "messages": [
+        {
+            "id": "msg_001",
+            "inboxId": "inbox_001",
+            "name": "Cameron Philips",
+            "time": "2024-06-04 10:30:34",
+            "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements.",
+        },
+        {
+            "id": "msg_002",
+            "inboxId": "inbox_001",
+            "name": "Cameron Philips",
+            "time": "2024-06-04 10:31:34",
+            "message": "Switches are a pleasant."
+        },
+        {
+            "id": "msg_003",
+            "inboxId": "inbox_001",
+            "name": "Mary Hilda",
+            "time": "2024-06-04 10:32:34",
+            "message": "Switches are a pleasant."
+        },
+        {
+            "id": "msg_004",
+            "inboxId": "inbox_001",
+            "name": "Obaidullah Amarkhil",
+            "time": "2024-06-04 10:33:34",
+            "message": "Switches are a pleasant interface for toggling a value between two states"
+        },
+        {
+            "id": "msg_005",
+            "inboxId": "inbox_001",
+            "name": "Cameron Philips",
+            "time": "2024-06-04 10:35:34",
+            "message": "Switches are a pleasant."
         }
     ]
     
