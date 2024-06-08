@@ -1,14 +1,14 @@
 {
     "user": {
-        "name": "Cameron Philips",
+        "name": "Cameron Phillips",
         "username": "cameron",
-        "id": "cameron_philips"
+        "id": "cameron_phillips"
     },
     "users": [
         {
-            "name": "Cameron Philips",
+            "name": "Cameron Phillips",
             "username": "cameron",
-            "id": "cameron_philips"
+            "id": "cameron_phillips"
         },
         {
             "name": "Mary Hilda",
@@ -31,14 +31,14 @@
         {
             "id": "msg_001",
             "inboxId": "inbox_001",
-            "name": "Cameron Philips",
+            "name": "Cameron Phillips",
             "time": "2024-06-04 10:30:34",
             "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements."
         },
         {
             "id": "msg_002",
             "inboxId": "inbox_001",
-            "name": "Cameron Philips",
+            "name": "Cameron Phillips",
             "time": "2024-06-04 10:31:34",
             "message": "Switches are a pleasant."
         },
@@ -59,10 +59,182 @@
         {
             "id": "msg_005",
             "inboxId": "inbox_001",
-            "name": "Cameron Philips",
+            "name": "Cameron Phillips",
             "time": "2024-06-04 10:35:34",
             "message": "Switches are a pleasant."
         }
-    ]
-    
+    ],
+    "quicks_inbox": [
+        { 
+            "id": "quicks_inbox_001", 
+            "name": "109220-Naturalization",
+            "messages": [
+                {
+                    "id": "quicks_inbox_001_msg_000",
+                    "inboxId": "quicks_inbox_001",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:30:34",
+                    "message": "No worries, it will be completed ASAP, I've asked him yesterday."
+                },
+                {
+                    "id": "quicks_inbox_001_msg_001",
+                    "inboxId": "quicks_inbox_001",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:30:34",
+                    "message": "Hello Obaidillah, Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements."
+                },
+                {
+                    "id": "quicks_inbox_001_msg_002",
+                    "inboxId": "quicks_inbox_001",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:31:34",
+                    "message": "Please contact Mary for question regarding the case bcs she will be managing your forms from now on! Thanks Mary"
+                },
+                {
+                    "id": "quicks_inbox_001_msg_003",
+                    "inboxId": "quicks_inbox_001",
+                    "name": "Mary Hilda",
+                    "time": "2024-06-04 10:32:34",
+                    "message": "Sure thing, Claren"
+                },
+                {
+                    "id": "quicks_inbox_001_msg_004",
+                    "inboxId": "quicks_inbox_001",
+                    "name": "Obaidullah Amarkhil",
+                    "time": "2024-06-04 10:33:34",
+                    "message": "Morning, I'll try to do them. Thanks"
+                },
+                {
+                    "id": "quicks_inbox_001_msg_005",
+                    "inboxId": "quicks_inbox_001",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:35:34",
+                    "message": "Please check this out!"
+                }
+            ]
+        },
+        { 
+            "id": "quicks_inbox_002", 
+            "name": "Jeannete Moraima Guaman Chamba (Hutto I-5589) [Hutto Follow Up - Brief Service]",
+            "messages": [
+                {
+                    "id": "quicks_inbox_002_msg_001",
+                    "inboxId": "quicks_inbox_002",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:30:34",
+                    "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements."
+                },
+                {
+                    "id": "quicks_inbox_002_msg_002",
+                    "inboxId": "quicks_inbox_002",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:31:34",
+                    "message": "Switches are a pleasant."
+                },
+                {
+                    "id": "quicks_inbox_002_msg_003",
+                    "inboxId": "quicks_inbox_002",
+                    "name": "Mary Hilda",
+                    "time": "2024-06-04 10:32:34",
+                    "message": "Switches are a pleasant."
+                },
+                {
+                    "id": "quicks_inbox_002_msg_004",
+                    "inboxId": "quicks_inbox_002",
+                    "name": "Obaidullah Amarkhil",
+                    "time": "2024-06-04 10:33:34",
+                    "message": "Switches are a pleasant interface for toggling a value between two states"
+                },
+                {
+                    "id": "quicks_inbox_002_msg_005",
+                    "inboxId": "quicks_inbox_002",
+                    "name": "Ellen",
+                    "time": "2024-06-04 10:35:34",
+                    "message": "Hi, please read."
+                }
+            ]
+        },
+        { 
+            "id": "quicks_inbox_003", 
+            "name": "8405-Diana SALAZAR MANGUIA",
+            "messages": [
+                {
+                    "id": "quicks_inbox_003_msg_001",
+                    "inboxId": "quicks_inbox_003",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:30:34",
+                    "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements."
+                },
+                {
+                    "id": "quicks_inbox_003_msg_002",
+                    "inboxId": "quicks_inbox_003",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:31:34",
+                    "message": "Switches are a pleasant."
+                },
+                {
+                    "id": "quicks_inbox_003_msg_003",
+                    "inboxId": "quicks_inbox_003",
+                    "name": "Mary Hilda",
+                    "time": "2024-06-04 10:32:34",
+                    "message": "Switches are a pleasant."
+                },
+                {
+                    "id": "quicks_inbox_003_msg_004",
+                    "inboxId": "quicks_inbox_003",
+                    "name": "Obaidullah Amarkhil",
+                    "time": "2024-06-04 10:33:34",
+                    "message": "Switches are a pleasant interface for toggling a value between two states"
+                },
+                {
+                    "id": "quicks_inbox_003_msg_005",
+                    "inboxId": "quicks_inbox_003",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:35:34",
+                    "message": "Switches are a pleasant."
+                }
+            ]
+        },
+        { 
+            "id": "quicks_inbox_004", 
+            "name": "FastVisa Support",
+            "messages": [
+                {
+                    "id": "quicks_inbox_004_msg_001",
+                    "inboxId": "quicks_inbox_004",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:30:34",
+                    "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements."
+                },
+                {
+                    "id": "quicks_inbox_004_msg_002",
+                    "inboxId": "quicks_inbox_004",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:31:34",
+                    "message": "Switches are a pleasant."
+                },
+                {
+                    "id": "quicks_inbox_004_msg_003",
+                    "inboxId": "quicks_inbox_004",
+                    "name": "Mary Hilda",
+                    "time": "2024-06-04 10:32:34",
+                    "message": "Switches are a pleasant."
+                },
+                {
+                    "id": "quicks_inbox_004_msg_004",
+                    "inboxId": "quicks_inbox_004",
+                    "name": "Obaidullah Amarkhil",
+                    "time": "2024-06-04 10:33:34",
+                    "message": "Switches are a pleasant interface for toggling a value between two states"
+                },
+                {
+                    "id": "quicks_inbox_004_msg_005",
+                    "inboxId": "quicks_inbox_004",
+                    "name": "Cameron Phillips",
+                    "time": "2024-06-04 10:35:34",
+                    "message": "Hi there! Welcome to your inbox"
+                }
+            ]
+        }
+    ] 
 }
