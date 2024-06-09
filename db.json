@@ -22,49 +22,6 @@
         }
     ],
     "inbox": [
-        { "id": "inbox_001", "name": "Keluarga Cemara" },
-        { "id": "inbox_002", "name": "Persatuan Pendukung MU Yang Capek Dukung MU" },
-        { "id": "inbox_003", "name": "Alumni SMA 2000 Konoha" },
-        { "id": "inbox_004", "name": "Info Cegatan Solo" }
-    ],
-    "messages": [
-        {
-            "id": "msg_001",
-            "inboxId": "inbox_001",
-            "name": "Cameron Phillips",
-            "time": "2024-06-04 10:30:34",
-            "message": "Switches are a pleasant interface for toggling a value between two states, and offer the same semantics and keyboard navigation as native checkbox elements."
-        },
-        {
-            "id": "msg_002",
-            "inboxId": "inbox_001",
-            "name": "Cameron Phillips",
-            "time": "2024-06-04 10:31:34",
-            "message": "Switches are a pleasant."
-        },
-        {
-            "id": "msg_003",
-            "inboxId": "inbox_001",
-            "name": "Mary Hilda",
-            "time": "2024-06-04 10:32:34",
-            "message": "Switches are a pleasant."
-        },
-        {
-            "id": "msg_004",
-            "inboxId": "inbox_001",
-            "name": "Obaidullah Amarkhil",
-            "time": "2024-06-04 10:33:34",
-            "message": "Switches are a pleasant interface for toggling a value between two states"
-        },
-        {
-            "id": "msg_005",
-            "inboxId": "inbox_001",
-            "name": "Cameron Phillips",
-            "time": "2024-06-04 10:35:34",
-            "message": "Switches are a pleasant."
-        }
-    ],
-    "quicks_inbox": [
         { 
             "id": "quicks_inbox_001", 
             "name": "109220-Naturalization",
@@ -236,5 +193,99 @@
                 }
             ]
         }
-    ] 
+    ],
+    "tasks": [
+        { 
+            "id": "task_001",
+            "name": "Personal Errand",
+            "todos": [
+                {
+                    "id": "task_001_todo_001",
+                    "taskId": "task_001",
+                    "title": "Close off Case #012920-RODRIGUES, Amiguel",
+                    "start_date": "2024-06-04 10:35:34",
+                    "end_date": "2024-06-010 10:35:34",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
+                },
+                {
+                    "id": "task_001_todo_002",
+                    "taskId": "task_001",
+                    "title": "Set up documentation report for several Cases: Case 145443, Case 192829, and Case 182203",
+                    "start_date": "2024-06-04 10:35:34",
+                    "end_date": "2024-06-010 10:35:34",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
+                },
+                {
+                    "id": "task_001_todo_003",
+                    "taskId": "task_001",
+                    "title": "Set up appointment with Dr Blake",
+                    "start_date": "2024-06-04 10:35:34",
+                    "end_date": "2024-06-014 10:35:34",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
+                },
+                {
+                    "id": "task_001_todo_004",
+                    "taskId": "task_001",
+                    "title": "Contact Mr Caleb video conference?",
+                    "start_date": "2024-06-04 10:35:34",
+                    "end_date": "2024-06-010 10:35:34",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
+                },
+                {
+                    "id": "task_001_todo_005",
+                    "taskId": "task_001",
+                    "title": "Assign 3 homework to Client",
+                    "start_date": "2024-06-04 10:35:34",
+                    "end_date": "2024-06-010 10:35:34",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
+                }
+            ]
+        },
+        { 
+            "id": "task_002",
+            "name": "Urgent To-Do",
+            "todos": [
+                {
+                    "id": "task_002_todo_001",
+                    "taskId": "task_002",
+                    "title": "Close off Case #012920-RODRIGUES, Amiguel",
+                    "start_date": "2024-06-04 10:35:34",
+                    "end_date": "2024-06-010 10:35:34",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
+                },
+                {
+                    "id": "task_002_todo_002",
+                    "taskId": "task_002",
+                    "title": "Set up documentation report for several Cases: Case 145443, Case 192829, and Case 182203",
+                    "start_date": "2024-06-04 10:35:34",
+                    "end_date": "2024-06-010 10:35:34",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
+                },
+                {
+                    "id": "task_002_todo_003",
+                    "taskId": "task_002",
+                    "title": "Set up appointment with Dr Blake",
+                    "start_date": "2024-06-04 10:35:34",
+                    "end_date": "2024-06-014 10:35:34",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
+                },
+                {
+                    "id": "task_002_todo_004",
+                    "taskId": "task_002",
+                    "title": "Contact Mr Caleb video conference?",
+                    "start_date": "2024-06-04 10:35:34",
+                    "end_date": "2024-06-010 10:35:34",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
+                },
+                {
+                    "id": "task_002_todo_005",
+                    "taskId": "task_002",
+                    "title": "Assign 3 homework to Client",
+                    "start_date": "2024-06-04 10:35:34",
+                    "end_date": "2024-06-010 10:35:34",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
+                }
+            ]
+        }
+    ]
 }
