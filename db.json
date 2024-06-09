@@ -132,40 +132,40 @@
                     "id": "task_001_todo_001",
                     "taskId": "task_001",
                     "title": "Close off Case #012920-RODRIGUES, Amiguel",
-                    "start_date": "2024-06-04 10:35:34",
-                    "end_date": "2024-06-010 10:35:34",
+                    "start_date": "7/06/2024",
+                    "end_date": "12/06/2024",
                     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
                 },
                 {
                     "id": "task_001_todo_002",
                     "taskId": "task_001",
                     "title": "Set up documentation report for several Cases: Case 145443, Case 192829, and Case 182203",
-                    "start_date": "2024-06-04 10:35:34",
-                    "end_date": "2024-06-010 10:35:34",
+                    "start_date": "7/06/2024",
+                    "end_date": "14/06/2024",
                     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
                 },
                 {
                     "id": "task_001_todo_003",
                     "taskId": "task_001",
                     "title": "Set up appointment with Dr Blake",
-                    "start_date": "2024-06-04 10:35:34",
-                    "end_date": "2024-06-014 10:35:34",
+                    "start_date": "7/06/2024",
+                    "end_date": "20/06/2024",
                     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
                 },
                 {
                     "id": "task_001_todo_004",
                     "taskId": "task_001",
                     "title": "Contact Mr Caleb video conference?",
-                    "start_date": "2024-06-04 10:35:34",
-                    "end_date": "2024-06-010 10:35:34",
+                    "start_date": "1/06/2024",
+                    "end_date": "3/06/2024",
                     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
                 },
                 {
                     "id": "task_001_todo_005",
                     "taskId": "task_001",
                     "title": "Assign 3 homework to Client",
-                    "start_date": "2024-06-04 10:35:34",
-                    "end_date": "2024-06-010 10:35:34",
+                    "start_date": "1/06/2024",
+                    "end_date": "2/06/2024",
                     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
                 }
             ]
@@ -178,8 +178,8 @@
                     "id": "task_002_todo_001",
                     "taskId": "task_002",
                     "title": "Close off Case #012920-RODRIGUES, Amiguel",
-                    "start_date": "2024-06-04 10:35:34",
-                    "end_date": "2024-06-010 10:35:34",
+                    "start_date": "1/06/2024",
+                    "end_date": "2/06/2024",
                     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur laborum itaque autem unde, dolorem incidunt odit obcaecati necessitatibus. Corporis, doloremque."
                 }
             ]
