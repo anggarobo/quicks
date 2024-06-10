@@ -5,6 +5,16 @@ import {
   Scripts,
   ScrollRestoration,
 } from "@remix-run/react";
+import type { LinksFunction } from "@remix-run/node";
+import stylesheet from "~/tailwind.css?url";
+import useInitUser from "./utils/useInitUser";
+import QuicksLayout from "./components/layout";
+import { InboxProvider } from "./context/inbox";
+import { TaskProvider } from "./context/task";
+
+export const links: LinksFunction = () => [
+  { rel: "stylesheet", href: stylesheet },
+];
 
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
@@ -15,8 +25,14 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Meta />
         <Links />
       </head>
-      <body>
-        {children}
+      <body className="bg-[#333333]">
+        <InboxProvider>
+          <TaskProvider>
+            <QuicksLayout>
+              {children}
+            </QuicksLayout>
+          </TaskProvider>
+        </InboxProvider>
         <ScrollRestoration />
         <Scripts />
       </body>
@@ -25,5 +41,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
 }
 
 export default function App() {
+  useInitUser()
+
   return <Outlet />;
 }
